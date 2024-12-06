@@ -1,0 +1,692 @@
+[
+  {
+    "productId": 0,
+    "productName": "Comfort 2B Jacket",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472462001/item/augoods_38_472462001_3x4.jpg?width=294",
+    "salePrice": "$79.90",
+    "originalPrice": "$99.90",
+    "salesPercentage": "79.98%",
+    "type": "Jacket",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 1,
+    "productName": "Comfort 2B Jacket",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472462/item/augoods_07_472462_3x4.jpg?width=294",
+    "salePrice": "$79.90",
+    "originalPrice": "$99.90",
+    "salesPercentage": "79.98%",
+    "type": "Jacket",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 2,
+    "productName": "Comfort 2B Jacket",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/449621/item/augoods_69_449621_3x4.jpg?width=294",
+    "salePrice": "$79.90",
+    "originalPrice": "$99.90",
+    "salesPercentage": "79.98%",
+    "type": "Jacket",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 3,
+    "productName": "Miracle Air Shirt Jacket (AirSense) (Wool Like)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/470993/item/goods_08_470993_3x4.jpg?width=294",
+    "salePrice": "$59.90",
+    "originalPrice": "$99.90",
+    "salesPercentage": "59.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 4,
+    "productName": "Miracle Air Shirt Jacket (AirSense)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/464917/item/augoods_09_464917_3x4.jpg?width=294",
+    "salePrice": "$59.90",
+    "originalPrice": "$99.90",
+    "salesPercentage": "59.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 5,
+    "productName": "Miracle Air Jacket (AirSense) (Cottonlike)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/444557/item/augoods_32_444557_3x4.jpg?width=294",
+    "salePrice": "$99.90",
+    "originalPrice": "$119.90",
+    "salesPercentage": "83.32%",
+    "type": "Jacket",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 6,
+    "productName": "Dry Sweat Jacket",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472174/item/augoods_30_472174_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "66.61%",
+    "type": "Jacket",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 7,
+    "productName": "JW Anderson Cotton Jacket",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467024/item/augoods_68_467024_3x4.jpg?width=294",
+    "salePrice": "$59.90",
+    "originalPrice": "$129.90",
+    "salesPercentage": "46.11%",
+    "type": "Jacket",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 8,
+    "productName": "AIRism Cotton Half Sleeve Relaxed T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/469361/item/augoods_09_469361_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 9,
+    "productName": "DRY-EX T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467543/item/augoods_03_467543_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$29.90",
+    "salesPercentage": "66.56%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 10,
+    "productName": "Curated by Tate UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470751/item/augoods_07_470751_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 11,
+    "productName": "Curated by Tate UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470750/item/augoods_09_470750_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 12,
+    "productName": "Curated by Tate UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470749/item/augoods_30_470749_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 13,
+    "productName": "Curated by Tate UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/466163/item/augoods_00_466163_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 14,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472783/item/augoods_09_472783_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 15,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472782/item/augoods_66_472782_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 16,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472187/item/augoods_00_472187_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 17,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472186/item/augoods_00_472186_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 18,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472185/item/augoods_08_472185_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 19,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472182/item/augoods_56_472182_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 20,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472181/item/augoods_09_472181_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 21,
+    "productName": "CAPCOM 40th Anniversary UT Graphic T-Shirt (Oversized)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/466092/item/augoods_00_466092_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "79.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 22,
+    "productName": "KENSHI YONEZU UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473525/item/augoods_45_473525_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 23,
+    "productName": "KENSHI YONEZU UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473524/item/augoods_00_473524_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 24,
+    "productName": "KENSHI YONEZU UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473523/item/augoods_09_473523_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 25,
+    "productName": "KENSHI YONEZU UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473521/item/augoods_08_473521_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 26,
+    "productName": "KENSHI YONEZU UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467241/item/augoods_61_467241_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 27,
+    "productName": "The SAKE Collection UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/469273/item/goods_01_469273_3x4.jpg?width=294",
+    "salePrice": "$9.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "39.76%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 28,
+    "productName": "The SAKE Collection UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/467267/item/goods_59_467267_3x4.jpg?width=294",
+    "salePrice": "$9.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "39.76%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 29,
+    "productName": "Mickey Stands UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472880/item/augoods_64_472880_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 30,
+    "productName": "Mickey Stands UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/468893/item/goods_00_468893_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 31,
+    "productName": "Mickey Stands UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467108/item/augoods_03_467108_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 32,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459360/item/goods_64_459360_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 33,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459358/item/goods_01_459358_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 34,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/459357/item/goods_67_459357_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 35,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456433/item/goods_69_456433_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 36,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452670/item/goods_01_452670_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 37,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452668/item/goods_54_452668_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 38,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452667/item/goods_09_452667_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 39,
+    "productName": "Ukiyo-e Archive UT Graphic T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/452665/item/goods_69_452665_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$24.90",
+    "salesPercentage": "59.84%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 40,
+    "productName": "JW Anderson Utility Work Shorts",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467050/item/augoods_30_467050_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shorts",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 41,
+    "productName": "Sweat Pants",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/469931/item/augoods_68_469931_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 42,
+    "productName": "Miracle Air Relaxed Pants (AirSense)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/463852/item/augoods_56_463852_3x4.jpg?width=294",
+    "salePrice": "$49.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "83.31%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 43,
+    "productName": "Cotton Relaxed Ribbed Jogger Pants",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/466662/item/augoods_69_466662_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "74.94%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 44,
+    "productName": "JW Anderson Linen Blend Relaxed Pants",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/463977/item/augoods_67_463977_3x4.jpg?width=294",
+    "salePrice": "$49.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "83.31%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 45,
+    "productName": "DRY-EX Half-Zip Polo Shirt (Adam Scott)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475281/item/goods_06_475281_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "49.87%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 46,
+    "productName": "DRY-EX Stand Collar Polo Shirt (Adam Scott)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/472668/item/goods_01_472668_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "49.87%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 47,
+    "productName": "DRY-EX Polo Shirt (Kei Nishikori)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/471031/item/goods_01_471031_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "49.87%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 48,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467512/item/augoods_08_467512_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "39.88%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 49,
+    "productName": "Oxford Slim Fit Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470296/item/augoods_32_470296_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 50,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473265/item/augoods_65_473265_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 51,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472538/item/augoods_68_472538_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 52,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472534/item/augoods_31_472534_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 53,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470303/item/augoods_64_470303_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 54,
+    "productName": "JW Anderson Extra Fine Cotton Broadcloth Long Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/466939/item/augoods_12_466939_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 55,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472537/item/augoods_59_472537_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 56,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472536/item/augoods_08_472536_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 57,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472535/item/augoods_17_472535_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 58,
+    "productName": "Broadcloth Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470306/item/augoods_01_470306_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 59,
+    "productName": "Jersey Over Shirt Long Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/470298/item/augoods_56_470298_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 60,
+    "productName": "Jersey Long Sleeve Over Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/462092/item/augoods_31_462092_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 61,
+    "productName": "Easy Care Slim Fit Shirt Long Sleeve (Spread Collar)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/470227/item/goods_64_470227_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 62,
+    "productName": "Easy Care Stretch Slim Fit Long Sleeve Shirt (Spread Collar)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/470224/item/goods_66_470224_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 63,
+    "productName": "Easy Care Slim Fit Shirt Long Sleeve (Regular Collar)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/470214/item/goods_09_470214_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 64,
+    "productName": "Easy Care Striped Stretch Slim Fit Long Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/467461/item/goods_66_467461_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 65,
+    "productName": "Fine Cloth Easy Care Broadcloth Long Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/456232/item/goods_00_456232_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "49.92%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 66,
+    "productName": "3D Knit Long Sleeve Crew Neck Sweater",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/464854/item/augoods_10_464854_3x4.jpg?width=294",
+    "salePrice": "$49.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "83.31%",
+    "type": "Fleece",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 67,
+    "productName": "Leather Combination Belt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/463735/item/goods_56_463735_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "59.92%",
+    "type": "Other",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 68,
+    "productName": "Crown Panto Sunglasses",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/466246/item/augoods_09_466246_3x4.jpg?width=294",
+    "salePrice": "$19.90",
+    "originalPrice": "$29.90",
+    "salesPercentage": "66.56%",
+    "type": "Other",
+    "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  }
+]
