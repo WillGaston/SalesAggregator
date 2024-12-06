@@ -688,5 +688,215 @@
     "salesPercentage": "66.56%",
     "type": "Other",
     "link": "https://www.uniqlo.com/au/en/products/E472186-000"
+  },
+  {
+    "productId": 69,
+    "productName": "Windproof Stand Blouson",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/464918/item/augoods_01_464918_3x4.jpg?width=294",
+    "salePrice": "$79.90",
+    "originalPrice": "$99.90",
+    "salesPercentage": "79.98%",
+    "type": "Other",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 70,
+    "productName": "AIRism Crew Neck T-Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/454312/item/augoods_02_454312_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$19.90",
+    "salesPercentage": "74.87%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 71,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472942/item/augoods_69_472942_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 72,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472941/item/augoods_61_472941_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 73,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472939/item/augoods_41_472939_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 74,
+    "productName": "Chino Shorts",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/458245/item/augoods_00_458245_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 75,
+    "productName": "Uniqlo U Wide Fit Parachute Cargo Pants",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/460268/item/augoods_56_460268_3x4.jpg?width=294",
+    "salePrice": "$49.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "83.31%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 76,
+    "productName": "DRY-EX Ultra Stretch Jogger Pants",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/465206/item/augoods_08_465206_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 77,
+    "productName": "DRY-EX Ultra Stretch Jogger Pants",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455408/item/augoods_03_455408_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Pants",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 78,
+    "productName": "AIRism V NECK T-SHIRT (SHORT SLEEVE)",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/454311/item/augoods_00_454311_3x4.jpg?width=294",
+    "salePrice": "$14.90",
+    "originalPrice": "$19.90",
+    "salesPercentage": "74.87%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 79,
+    "productName": "Modal Cotton Open Collar Shirt Short Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473061/item/augoods_66_473061_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 80,
+    "productName": "Modal Cotton Open Collar Shirt Short Sleeve",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/473060/item/augoods_09_473060_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 81,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467513/item/augoods_01_467513_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 82,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/467120/item/augoods_68_467120_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 83,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/464938/item/augoods_66_464938_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 84,
+    "productName": "Modal Cotton Open Collar Short Sleeve Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/455969/item/augoods_09_455969_3x4.jpg?width=294",
+    "salePrice": "$39.90",
+    "originalPrice": "$49.90",
+    "salesPercentage": "79.96%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 85,
+    "productName": "Dry Pique Polo Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/472592/item/augoods_04_472592_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "74.94%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 86,
+    "productName": "Dry Pique Polo Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/469052/item/augoods_69_469052_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "74.94%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 87,
+    "productName": "Dry Pique Polo Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/466816/item/goods_69_466816_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "74.94%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 88,
+    "productName": "Dry Pique Polo Shirt",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/455388/item/goods_69_455388_3x4.jpg?width=294",
+    "salePrice": "$29.90",
+    "originalPrice": "$39.90",
+    "salesPercentage": "74.94%",
+    "type": "Shirt",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
+  },
+  {
+    "productId": 89,
+    "productName": "Washable Milano Ribbed Crew Neck Sweater",
+    "imageURL": "https://image.uniqlo.com/UQ/ST3/au/imagesgoods/453754/item/augoods_07_453754_3x4.jpg?width=294",
+    "salePrice": "$49.90",
+    "originalPrice": "$59.90",
+    "salesPercentage": "83.31%",
+    "type": "Fleece",
+    "link": "https://www.uniqlo.com/au/en/products/E464918-000"
   }
 ]
